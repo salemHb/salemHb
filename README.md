@@ -3,10 +3,10 @@
 ## Tech Stack
 
 **Frontend**  
-React · Next · JavaScript · HTML/CSS
+React · Next · Vue · Nuxt · JavaScript · HTML/CSS
 
 **Backend**  
-Node.js · Laravel ·  REST   
+Node.js · Laravel · Express · REST   
 
 **Infrastructure**  
 Linux · Azure · Docker · CI/CD · Systems Programming
