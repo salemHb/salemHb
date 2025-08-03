@@ -17,7 +17,7 @@ TypeScript · PHP · SQL (MySQL/PostgreSQL)
 ---
 ## Interested In
 
-- Collaborating on solid Javascript, Node, or Laravel projects  
+- Collaborating on solid Typescript, Node, or Laravel projects  
 - System Design work  
 
 ---
