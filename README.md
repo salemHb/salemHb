@@ -18,7 +18,7 @@ TypeScript · PHP · SQL (MySQL/PostgreSQL)
 ## Interested In
 
 - Collaborating on solid Typescript, Node, or Laravel projects  
-- System Design work  
+- System design work  
 
 ---
 https://babu-lake.vercel.app/
