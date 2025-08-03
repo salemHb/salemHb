@@ -1,4 +1,4 @@
-<p>Hello world. I am Hussein,a Fullstack Developer</p>
+<p>Fullstack Developer</p>
 
 ## Tech Stack
 
@@ -18,9 +18,8 @@ TypeScript · PHP · SQL (MySQL/PostgreSQL)
 ## Interested In
 
 - Collaborating on solid Typescript, Node, or Laravel projects  
-- System design work  
+- Architecting and building core systems
 
 ---
-https://babu-lake.vercel.app/
 
 
